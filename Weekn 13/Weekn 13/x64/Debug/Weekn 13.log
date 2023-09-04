@@ -1,0 +1,18 @@
+﻿  Exercise4a(grade).cpp
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(19,10): error C2143: syntax error: missing ';' before ':'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(19,22): error C2143: syntax error: missing ';' before ')'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(23,6): error C2446: '==': no conversion from 'const char [2]' to 'int'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(23,15): message : There is no context in which this conversion is possible
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(25,11): error C2446: '==': no conversion from 'const char [2]' to 'int'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(25,20): message : There is no context in which this conversion is possible
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(27,20): error C2446: '==': no conversion from 'const char [2]' to 'int'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(27,17): message : There is no context in which this conversion is possible
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(27,36): error C2446: '==': no conversion from 'const char [2]' to 'int'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(27,33): message : There is no context in which this conversion is possible
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(28,4): error C2146: syntax error: missing ';' before identifier 'totalC'
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(29,3): error C2181: illegal else without matching if
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(31,6): error C2601: 'displayTotals': local function definitions are illegal
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(17): message : this line contains a '{' which has not yet been matched
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(33,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(34,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Admin\Documents\Computer Engineer DECNS\Structure Programming ET 0809\Exercise4a(grade).cpp(35,11): warning C4129: ' ': unrecognized character escape sequence
